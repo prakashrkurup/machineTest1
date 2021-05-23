@@ -1,2 +1,2 @@
-# machineTest1
+# machineTest
 Solution for Example2
